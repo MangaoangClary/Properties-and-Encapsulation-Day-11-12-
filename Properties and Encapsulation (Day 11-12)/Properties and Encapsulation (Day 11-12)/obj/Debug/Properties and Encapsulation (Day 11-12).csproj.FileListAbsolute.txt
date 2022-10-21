@@ -1,0 +1,8 @@
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\bin\Debug\Properties and Encapsulation (Day 11-12).exe.config
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\bin\Debug\Properties and Encapsulation (Day 11-12).exe
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\bin\Debug\Properties and Encapsulation (Day 11-12).pdb
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\obj\Debug\Properties and Encapsulation (Day 11-12).csproj.AssemblyReference.cache
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\obj\Debug\Properties and Encapsulation (Day 11-12).csproj.SuggestedBindingRedirects.cache
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\obj\Debug\Properties and Encapsulation (Day 11-12).csproj.CoreCompileInputs.cache
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\obj\Debug\Properties and Encapsulation (Day 11-12).exe
+C:\Users\Clary Lumdang\source\repos\Properties and Encapsulation (Day 11-12)\Properties and Encapsulation (Day 11-12)\obj\Debug\Properties and Encapsulation (Day 11-12).pdb
